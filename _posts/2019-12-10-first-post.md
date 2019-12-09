@@ -1,7 +1,14 @@
 ---
 title: "hello world!"
-date: 2019-12-10 03:34:30 -0900
-categories: post
+excerpt: "깃 블로그"
+
+date: {{ page.last_modified_at }}
+
+categories: first
+tag: first
 ---
 
 fisrt Post...
+
+마지막 시간으로 글자 수정해봄..
+카테고리 및 태그 넣어봄
