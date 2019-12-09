@@ -2,8 +2,6 @@
 title: "hello world!"
 excerpt: "깃 블로그"
 
-date: {{ page.last_modified_at }}
-
 categories: first
 tag: first
 ---
