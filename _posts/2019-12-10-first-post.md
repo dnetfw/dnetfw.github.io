@@ -23,7 +23,11 @@ git init
 
 git remote remotename https://git저장소.git
 
+git commit -m "커밋할 내용"
+
 git push remotename master
+
+
 
 
 # 3. 브런치 변경
