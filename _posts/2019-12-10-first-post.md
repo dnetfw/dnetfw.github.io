@@ -1,5 +1,5 @@
 ---
-title: "hello world!"
+title: "hello world! - 올바르게 깃 사용 해보자"
 excerpt: "깃허브 사용법"
 categories: git
 tag: git
