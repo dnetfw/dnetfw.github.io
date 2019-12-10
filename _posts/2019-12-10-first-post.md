@@ -28,7 +28,7 @@ git commit -m "커밋할 내용"
 
 git push remotename master
 
-마지막줄에 master 같은 경우엔 
+마지막줄에 master 같은 경우엔 브런치 네임이 된다.
 
 
 # 3. 브런치 변경
