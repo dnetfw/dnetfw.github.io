@@ -1,7 +1,7 @@
 ---
 title: "안드로이드 - 헬스 어플"
 excerpt: "어플리케이션 제작"
-date: 19-12-10 11:45
+date: 19-12-10 11:45:00 -09:00
 categories: Android
 tag: ["Android", "Android Java", "Java"]
 ---
