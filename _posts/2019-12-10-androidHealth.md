@@ -1,8 +1,9 @@
 ---
 title: "안드로이드 - 헬스 어플"
 excerpt: "어플리케이션 제작"
+date: 19-12-10 11:45
 categories: Android
-tag: Android, Android Java, Java
+tag: ["Android", "Android Java", "Java"]
 ---
 
 # 안드로이드 헬스 어플 제작
