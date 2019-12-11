@@ -29,7 +29,6 @@ logo                     : "/assets/images/picat.jpg" # path of logo image to di
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-favicon                  : "/assets/images/favicon.png"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
