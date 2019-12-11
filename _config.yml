@@ -20,12 +20,12 @@ title                    : "DNETFW"
 title_separator          : #"History is written by the victor"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DNETFW"
-description              : "Project Ress"
+description              : "This world makes me despair"
 url                      : "https://dnetfw.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/picat.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/picat.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : #"/assets/images/profile.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : #"/assets/images/picat.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "DNETFW"
-  avatar           : "/assets/images/picat.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Same Shit Different Day"
   location         : "KOREA"
   email            : # "dnetfw@gmail.com"
