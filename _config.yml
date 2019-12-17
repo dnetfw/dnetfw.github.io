@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "DNETFW"
-  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/picat.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Same Shit Different Day"
   location         : "KOREA"
   email            : # "dnetfw@gmail.com"
