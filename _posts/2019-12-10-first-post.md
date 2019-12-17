@@ -4,6 +4,10 @@ excerpt: "깃허브 사용법"
 date: 2019-12-10 03:45
 categories: "git"
 tag: "git"
+lastmod : 2019-12-17 14:54
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 # 1. 깃 시작 할 시에 필수 항목..
