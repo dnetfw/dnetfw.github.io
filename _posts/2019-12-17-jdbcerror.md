@@ -27,7 +27,7 @@ sitemap :
 
 그중 눈에 띈 부분은, 샘플 ConnectURL.java 부분이였다.
 
-```{.java}
+```java
 public static void main(String[] args) {
 
         // Create a variable for the connection string.
