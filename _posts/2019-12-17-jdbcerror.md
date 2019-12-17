@@ -48,3 +48,22 @@ public static void main(String[] args) {
         }
     }
 ```
+
+해당 부분을 나의 DB 설정에 맞게 세팅 하였지만, 그대로 문제를 해결하지 못하였다.
+
+다음으로 세팅한 부분은 lib 설정
+
+![buildpath 설정](../assets/images/jdbcerror.png)
+
+해당 설정은 eclipse - Project - Java Build Path - Libraries - Add JARs... 를 통하여 다운받은 mssql-jdbc 드라이버를 설정, 적용하여 세팅하였고,
+
+### 마지막으로 
+jdk 및 jre가 설치된 폴더에도 해당 jar 파일을 넣었다.
+
+필자는 openjdk 기준이며, oraclejdk의 경로는 적지 않았다.
+### JRE : 
+C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.232-1\jre\lib\ext
+### JDK : 
+C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.232-1\lib\ext
+
+그렇게 적용하여 DB에 있는 값을 불러오는데 성공하였다.
