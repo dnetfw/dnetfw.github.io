@@ -17,7 +17,7 @@ sitemap :
 
 이것저것 MSDN 문서도 찾아보며 다녔고,
 
-![이미지 1](../assets/images/jdbcrequire.png)
+![이미지 1](/assets/images/jdbcrequire.png)
 
 시스템 요구사항도 확인 하였으며, 문제가 없다는 것을 확인했다.
 
@@ -53,7 +53,7 @@ public static void main(String[] args) {
 
 다음으로 세팅한 부분은 lib 설정
 
-![buildpath 설정](../assets/images/jdbcerror.png)
+![buildpath 설정](/assets/images/jdbcerror.png)
 
 해당 설정은 eclipse - Project - Java Build Path - Libraries - Add JARs... 를 통하여 다운받은 mssql-jdbc 드라이버를 설정, 적용하여 세팅하였고,
 
