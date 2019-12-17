@@ -4,6 +4,10 @@ excerpt: "어플리케이션 제작"
 date: 2019-12-10 23:45
 categories: "Android"
 tag: ["Android", "Android Java", "Java"]
+lastmod : 2019-12-17 14:56
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 # 안드로이드 헬스 어플 제작
