@@ -1,5 +1,5 @@
 ---
-title: "javascript 날짜 차이"
+title: "javascript 날짜 차이 및 오브젝트 형 파악"
 excerpt: "vbscript to javascript"
 date: 2019-12-18 07:59
 categories: "Javascript"
@@ -10,6 +10,7 @@ sitemap :
   priority : 1.0
 ---
 
+## 두 날짜간 몇일 차이인지 비교
 
 ```javascript
 function GF_013(Arg1, Arg2){ // dnetfw
@@ -26,3 +27,17 @@ function GF_013(Arg1, Arg2){ // dnetfw
 
 	}
 ```
+
+## javascript IsObject
+
+```javascript
+	function object(str){ // dnetfw
+		return str.constructor === Object;
+	}
+```
+
+## P.S == 과 ===의 차이점
+
+a == b  같은 경우엔 a와 b의 데이터 값을 비교한다.
+
+a === b 같은 경우엔 a와 b의 데이터 값 및 타입/형식 까지 비교한다. (좀 더 정밀하게);
