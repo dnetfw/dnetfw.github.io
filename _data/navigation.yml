@@ -10,9 +10,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+    - title: "카테고리"
+      url: https://dnetfw.github.io/categories/
+
+    - title: "태그모음"
+      url: https://dnetfw.github.io/tags/
