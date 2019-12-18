@@ -1,9 +1,9 @@
 ---
-title: "javascript 날짜 차이 및 오브젝트 형 파악"
+title: "JAVA DB 연결"
 excerpt: "db 연동"
 date: 2019-12-18 16:52
-categories: "Javascript"
-tag: ["javascript" , "vbscript"]
+categories: "JAVA"
+tag: ["JAVA" , "JSP", "MSSQL"]
 lastmod : 2019-12-18 16:53
 sitemap :
   changefreq : daily
