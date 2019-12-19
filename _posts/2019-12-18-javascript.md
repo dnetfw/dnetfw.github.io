@@ -2,7 +2,7 @@
 title: "javascript 날짜 차이 및 오브젝트 형 파악"
 excerpt: "vbscript to javascript"
 date: 2019-12-18 07:59
-categories: "Javascript"
+categories: "javascript"
 tag: ["javascript" , "vbscript"]
 lastmod : 2019-12-18 07:59
 sitemap :

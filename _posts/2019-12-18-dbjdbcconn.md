@@ -2,8 +2,8 @@
 title: "JAVA DB 연결"
 excerpt: "db 연동"
 date: 2019-12-18 16:52
-categories: "JAVA"
-tag: ["JAVA" , "JSP", "MSSQL"]
+categories: "java"
+tag: ["java" , "jsp", "mssql"]
 lastmod : 2019-12-18 16:53
 sitemap :
   changefreq : daily

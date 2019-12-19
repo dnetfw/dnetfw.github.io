@@ -2,8 +2,8 @@
 title: "MSSQL JAVA no suitable driver found for jdbc 에러"
 excerpt: "연결 문제 해결 방법"
 date: 2019-12-17 15:25
-categories: "JAVA"
-tag: ["JDBC", "JAVA", "MSSQL"]
+categories: "java"
+tag: ["jdbc", "java", "mssql"]
 lastmod : 2019-12-17 15:25
 sitemap :
   changefreq : daily
