@@ -31,9 +31,9 @@ function GF_013(Arg1, Arg2){ // dnetfw
 ## javascript IsObject
 
 ```javascript
-	function object(str){ // dnetfw
-		return str.constructor === Object;
-	}
+function object(str){ // dnetfw
+    return str.constructor === Object;
+}
 ```
 
 ## P.S == 과 ===의 차이점
